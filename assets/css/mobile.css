@@ -20,13 +20,13 @@
 
 /*ShowCase*/
 #showcase-container{
-    padding: 20px;
+    padding: 40px;
 }
 
 /*clients*/
 
 #clients-container{
-    grid-template-columns: repeat(2,1);
+    grid-template-columns: repeat(2,1fr);
 }
 
 .client{
